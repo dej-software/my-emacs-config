@@ -1,0 +1,12 @@
+[submodule "lazy-load"]
+	path = config/extensions/lazy-load
+	url = https://github.com/manateelazycat/lazy-load.git
+[submodule "awesome-pair"]
+	path = config/extensions/awesome-pair
+	url = https://github.com/manateelazycat/awesome-pair.git
+[submodule "auto-save"]
+	path = config/extensions/auto-save
+	url = https://github.com/manateelazycat/auto-save.git
+[submodule "snails"]
+	path = config/extensions/snails
+	url = https://github.com/manateelazycat/snails.git
